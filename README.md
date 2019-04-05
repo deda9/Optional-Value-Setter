@@ -1,6 +1,6 @@
 # Optional-Value-Setter
 
-It's sasy wrapping to the optional value and this come from [Swift Proposal: SE-0024](https://github.com/apple/swift-evolution/blob/master/proposals/0024-optional-value-setter.md)
+It's easy wrapping to the optional value and this come from [Swift Proposal: SE-0024](https://github.com/apple/swift-evolution/blob/master/proposals/0024-optional-value-setter.md)
 
 ### Soultion
 ```Swift
